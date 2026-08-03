@@ -1,0 +1,5 @@
+Flask
+FastAPI
+uvicorn
+pydantic
+email-validator
